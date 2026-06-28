@@ -70,17 +70,6 @@ Observed ransomware behavior including file encryption and ransom message displa
 
 ---
 
-## Screenshots
-Add your screenshots here:
-- Nmap Scan Results
-- Metasploit Exploitation
-- Reverse Shell Access
-- Uploading WannaCry
-- Before & After Encryption
-- Ransom Note Popup
-
----
-
 ## Disclaimer
 This project was created strictly for educational and ethical cybersecurity learning purposes in a controlled virtual lab environment.
 
